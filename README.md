@@ -1,3 +1,2 @@
 # Programa-o_app senai codes
-guacamole pudim zabalei
-yy
+Aula para estudar javascript senai 3° ano
